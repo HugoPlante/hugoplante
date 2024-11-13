@@ -1,11 +1,11 @@
 # 👋 Bienvenue sur mon profil GitHub
 
-Je suis **développeur full-stack** avec un fort intérêt pour la création d’interfaces web réactives et intuitives. Actuellement, je développe des compétences en **React**/**Vue**, **JavaScript**, et **CSS**, et je suis à la recherche de nouvelles opportunités en tant que développeur front-end ou full-stack.
+Je suis un **développeur full-stack** avec un fort intérêt pour la création d’interfaces web réactives et intuitives. Actuellement, je développe mes compétences en **React**/**Vue**, **JavaScript**, et **CSS**, et je suis à la recherche de nouvelles opportunités en tant que développeur front-end ou full-stack.
 
 🌱 **À propos de moi :**
 - Passionné par le développement web et l'optimisation des interfaces utilisateur.
 - Expérimenté en **React** et **Tailwind CSS**, avec une connaissance des déploiements automatiques via **GitHub Actions**.
-- Curieux et motivé à apprendre en continu de nouvelles technologies comme **TypeScript** et **Node.js**.
+- Curieux et motivé à apprendre en continu de nouvelles technologies comme **TypeScript** et **Docker**.
 
 💻 **Langages et technologies principales :**
 
