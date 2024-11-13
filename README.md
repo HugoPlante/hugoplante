@@ -18,12 +18,12 @@ Je suis un **développeur full-stack** avec un fort intérêt pour la création 
 ### 🔐 Password Generator
 Un générateur de mots de passe sécurisé construit avec **React** et déployé automatiquement grâce à **GitHub Actions**. Ce projet met en avant mes compétences en développement front-end et en automatisation.
 
-> [Voir le projet](lien-du-projet) 
+> [Voir le projet](https://github.com/HugoPlante/password-generator) 
 
 ### 🖥️ Portfolio
 Mon site portfolio personnel construit avec **React** et stylisé avec **Tailwind CSS**. (Actuellement en redesign pour intégrer de nouvelles fonctionnalités et un design amélioré.)
 
-> [Voir le projet](lien-du-projet)
+> [Voir le projet](https://github.com/HugoPlante/portfolio)
 
 ---
 
